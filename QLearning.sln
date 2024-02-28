@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI", "QLearning\AI.csproj", "{DEA3E5CA-30F3-4183-BFE9-E94B5419C6EB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "ConnectFour\TicTacToe.csproj", "{BE5BF09A-0D06-4617-BC23-7AC90CD7EFEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{BE5BF09A-0D06-4617-BC23-7AC90CD7EFEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
